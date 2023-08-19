@@ -3,10 +3,10 @@
 Welcome to the Temperature Converter App repository! This versatile app allows you to convert temperatures between Celsius and Fahrenheit. Whether you're a developer seeking insights into the implementation or a user in need of an all-in-one temperature conversion tool, this app has you covered.
 
 # Features
-1. Convert temperature between Celsius, Kelvin, and Fahrenheit.
+1. Convert temperature between Celsius and Fahrenheit.
 2. User-friendly interface with dropdown menus for easy selection.
 3. Accurate temperature conversion formulas applied for all units.
-4.Supports positive and negative temperature values.
+4. Supports positive and negative temperature values.
 
 # Usage
 1. Run the app on your chosen platform.
