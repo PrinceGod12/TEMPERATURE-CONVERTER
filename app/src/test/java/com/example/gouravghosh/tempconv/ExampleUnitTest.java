@@ -1,4 +1,4 @@
-package com.example.gouravghosh.tempconvdemo;
+package com.example.gouravghosh.tempconv;
 
 import org.junit.Test;
 
