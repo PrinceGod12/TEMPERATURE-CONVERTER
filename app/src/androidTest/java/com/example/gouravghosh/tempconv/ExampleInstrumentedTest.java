@@ -1,4 +1,4 @@
-package com.example.gouravghosh.tempconvdemo;
+package com.example.gouravghosh.tempconv;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.gouravghosh.tempconvdemo", appContext.getPackageName());
+        assertEquals("com.example.gouravghosh.tempconv", appContext.getPackageName());
     }
 }
