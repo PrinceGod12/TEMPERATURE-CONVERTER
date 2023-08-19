@@ -17,8 +17,8 @@ Welcome to the Temperature Converter App repository! This versatile app allows y
 6. The converted temperature will be displayed on the screen.
    
 # Technology Used
-Language: Java
-Framework: Android SDK
+- Language: Java
+- Framework: Android SDK
 
 # Screenshots 
 
